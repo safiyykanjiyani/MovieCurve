@@ -3,6 +3,7 @@
 This program takes a list of movies and sorts them, then puts it on a specific distribution to give a fair assesment of an individual movie in comparison to all others movies watched rather than something like IMDb 
 
 This was the results of my program given movies.txt: 
+```
 2007	Man from Earth	10
 2000	O Brother, Where Art Thou?	10
 2017	Coco	10
@@ -169,4 +170,4 @@ This was the results of my program given movies.txt:
 2017	Death Note	0
 2019	Pet Sementary	0
 2004	White Chicks	0
-
+```
